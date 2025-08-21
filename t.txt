@@ -1,0 +1,97 @@
+ <section style="max-width:920px;margin:32px auto;padding:28px 24px;background:#0f172a;color:#e5e7eb;border-radius:18px;box-shadow:0 10px 30px rgba(2,8,23,.25);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.6;">
+  <!-- Title -->
+  <h3 style="margin:0 0 10px 0;font-size:28px;letter-spacing:.2px;color:#f8fafc;">
+I'm here to bring your next project to life!  </h3>
+
+  <!-- Presentation courte -->
+  <p style="margin:0 0 18px 0;font-size:16px;color:#cbd5e1;">
+    Full-stack engineer crafting modern web & mobile apps, efficient embedded systems, and reliable IT/telecom infrastructures. I turn ideas into polished, scalable products.
+  </p>
+
+  <!-- Valeur ajoutée -->
+  <div style="display:flex;flex-wrap:wrap;gap:14px;margin:14px 0 6px 0;">
+    <div style="flex:1 1 260px;padding:14px 16px;background:#111827;border:1px solid #1f2937;border-radius:14px;">
+      <div style="font-weight:700;font-size:15px;color:#e5e7eb;display:flex;align-items:center;gap:8px;">🚀 Fast to Prototype, Built to Scale</div>
+      <div style="font-size:14px;color:#9ca3af;margin-top:6px;">From MVP to production: clean architecture, CI/CD, and performance-minded code.</div>
+    </div>
+    <div style="flex:1 1 260px;padding:14px 16px;background:#111827;border:1px solid #1f2937;border-radius:14px;">
+      <div style="font-weight:700;font-size:15px;color:#e5e7eb;display:flex;align-items:center;gap:8px;">📲 User-First Experiences</div>
+      <div style="font-size:14px;color:#9ca3af;margin-top:6px;">Accessible, responsive interfaces that feel fast and intuitive on any device.</div>
+    </div>
+    <div style="flex:1 1 260px;padding:14px 16px;background:#111827;border:1px solid #1f2937;border-radius:14px;">
+      <div style="font-weight:700;font-size:15px;color:#e5e7eb;display:flex;align-items:center;gap:8px;">🛡️ Reliability & Observability</div>
+      <div style="font-size:14px;color:#9ca3af;margin-top:6px;">Secure by design, with logging/monitoring to keep systems healthy in production.</div>
+    </div>
+  </div>
+
+  <!-- Soft skills -->
+  <div style="margin-top:16px;">
+    <div style="font-weight:700;font-size:15px;color:#e5e7eb;margin-bottom:8px;">Soft skills</div>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;">
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Problem-solving</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Communication</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Teamwork</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Adaptability</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Ownership</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Client focus</span>
+      <span style="font-size:13px;padding:8px 12px;border-radius:999px;background:#0b1220;border:1px solid #233046;color:#cbd5e1;">Time management</span>
+    </div>
+  </div>
+</section>
+
+ V2
+
+
+<h3>Hi, I'm here to bring your next project to life!</h3>
+<p>
+  Passionate about innovation and problem-solving, I craft modern web and mobile applications, 
+  design efficient embedded systems, and manage reliable IT infrastructures. 
+  My mission is to transform ideas into impactful digital solutions that are functional, 
+  scalable, and user-friendly. Each project is an opportunity to create technology 
+  that truly makes a difference.
+</p>
+
+
+
+
+//service
+
+<div class="services-box">
+  <i class='bx bx-code-alt'></i> 
+  <h3>Web & Mobile Development</h3>
+  <p>
+    I design and build modern, responsive web and mobile applications that are fast, 
+    secure, and user-friendly — tailored to meet both business and user needs.
+  </p>
+  <a href="#" class="btn">Read More</a>
+</div>
+
+<div class="services-box">
+  <i class='bx bx-microchip'></i> 
+  <h3>Embedded Systems Design</h3>
+  <p>
+    From IoT prototypes to production-ready solutions, I develop efficient and 
+    reliable embedded systems that bring hardware and software together seamlessly.
+  </p>
+  <a href="#" class="btn">Read More</a>
+</div>
+
+<div class="services-box">
+  <i class='bx bx-cloud'></i>   
+  <h3>Data & Systems Administration</h3>
+  <p>
+    I manage servers, networks, and cloud infrastructures to ensure security, 
+    scalability, and high availability for mission-critical applications.
+  </p>
+  <a href="#" class="btn">Read More</a>
+</div>
+
+<div class="services-box">
+  <i class='bx bx-phone'></i>
+  <h3>Telecommunications Engineering</h3>
+  <p>
+    With expertise in telecom systems, I deliver robust network solutions and 
+    optimize connectivity for seamless communication and data transfer.
+  </p>
+  <a href="#" class="btn">Read More</a>
+</div>
