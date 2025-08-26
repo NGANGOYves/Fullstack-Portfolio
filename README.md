@@ -30,7 +30,7 @@ Here are some previews of the portfolio:
 ### 💼 Portfolio Section  
 ![Portfolio Screenshot](assets/images/3.png)  
 
-### ✉️ Contact Section  
+### 💼 Project Section  
 ![Contact Screenshot](assets/images/2.png)  
 
 ---
