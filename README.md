@@ -3,7 +3,7 @@
 This is my personal **portfolio website** showcasing who I am, the services I provide, and the projects I’ve built.  
 It is fully responsive, modern, and designed with clean UI/UX principles.  
 
-👉 The projects displayed in this portfolio can be found here on my [GitHub profile](https://github.com/YOUR_GITHUB_USERNAME).  
+👉 The projects displayed in this portfolio can be found here on my [GitHub profile](https://https://github.com/NGANGOYves/).  
 
 ---
 
@@ -60,15 +60,15 @@ Find the full source code for these projects on my GitHub profile.
 
 If you want to collaborate, build a project, or just say hi:  
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/YOUR_HANDLE)  
+- 📧 Email: yveslucas20@gmail.com 
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ngango-yves-636209300/)  
+
 
 ---
 
 ### 🔗 Live Demo  
 
-[Live Website Here](https://your-portfolio-demo-link.com)  
+[Live Website Here](https://ngangoyves.github.io/Fullstack-Portfolio/#home)  
 
 ---
 
