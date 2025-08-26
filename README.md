@@ -19,7 +19,7 @@ It is fully responsive, modern, and designed with clean UI/UX principles.
 
 ## 📸 Screenshots  
 
-Here are some previews of the portfolio (replace with your own images):  
+Here are some previews of the portfolio:  
 
 ### 🏠 Home Section  
 ![Home Screenshot](assets/images/5.png)  
